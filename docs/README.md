@@ -26,25 +26,19 @@ _Technology:_
 # 👩🏻‍💻 Responsividade em alguns dispositivos diferentes:
 _Responsiveness on a few different devices:_  
 
-<br>
-📸 Screenshot Desktop:
+📸 Screenshots: Desktop, iPad Mini, iPhone XR, Samsung Galaxy S8+, Samsung Galaxy S20 Ultra e iPad pro:
+
 ![](../images/responsivo.png)
-<br>
-📸 Screenshot iPad Mini:
+
 ![](../images/dispositivo_mini.png)
-<br>
-📸 Screenshot iPhone XR:
-![](../images/dispositivo_xr.png)
-<br>
-📸 Screenshot Samsung Galaxy S8+:
-![](../images/samsung_galaxy_S8%2B.png)
-<br>
-📸 Screenshot Samsung Galaxy S20 Ultra:
+
+![](../images/dispositivo_mini.png)
+
+![](../images/samsung_galaxy_S8plus.png)
+
 ![](../images/galaxyS20Ultra.png)
-<br>
-📸 Screenshot iPad pro:
+
 ![](../images/ipad_pro.png)
-<br>
 
 #
 ## 📝 Projeto:
